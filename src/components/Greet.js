@@ -15,7 +15,7 @@ const Greet = props => {
     return (
         <div>
             <h1>
-                Hello {props.name} aka {props.ninjaName}
+                Hello my name is {props.name} and I love  {props.love}
             </h1>
             {props.children}
 
