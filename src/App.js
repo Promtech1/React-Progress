@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <Greet name = "promise" love = "Coding"/>
       <Welcome name="promise" nickname="Promtech"/>
+      <BindHandlers/>
     </div>
   );
 }
